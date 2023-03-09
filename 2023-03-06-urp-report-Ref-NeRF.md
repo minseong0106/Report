@@ -12,7 +12,7 @@ directional MLP에서 기존 NeRF는 single direction vector를 사용하였는�
 
 - von Mises-Fisher distribution
 	- 원 위에서 sampling 되는 data 표현
-	- ![ide](ide.png)
+	- ![ide](image/ide.png)
 
 
 - Diffuse and Specular Colors
