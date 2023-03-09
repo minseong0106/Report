@@ -3,7 +3,7 @@
 	- roughness를 줄일수록( k값 증가) higher-frequency encoding이 요구된다.  
 
 - Diffuse and Specular Colors
-	- ![[Pasted image 20230302140546.png]]
+	- ![MLP](./image/MLP.PNG )
 	- 기존의 NeRF와 다르게 Spatial MLP에서는 diffuse, Directional MLP에서는 specular color를 출력한다. specular는 물체의 재질과 반사각을 고려한 color이기 때문에 Reflection과 재질을 고려한 Intergrated Directional Encoding을 통하여 Directional MLP에서 값을 출력한다. 
 	- color는 diffuse color와 specular color에 specular tint를 곱한 값의 합으로 구할 수 있다. 
 
