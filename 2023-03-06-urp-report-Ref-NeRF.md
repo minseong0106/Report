@@ -4,7 +4,7 @@
 
 - Intergrated Directional Encoding
 
-![encoding](./image/encoding.PNG)
+![encoding](./image/encoding.png)
 
 
 기존 NeRF의 positional encoding(sin function 사용)과 다르게 각 direction을 spherical harmonics로 표현한다. 각 component의 encoding은 spherical harmonic function이며 vMF distribution을 사용하였다. 
@@ -12,11 +12,11 @@ directional MLP에서 기존 NeRF는 single direction vector를 사용하였는�
 
 - von Mises-Fisher distribution
 	- 원 위에서 sampling 되는 data 표현
-	- ![ide](ide.png )
+	- ![ide](ide.png)
 
 
 - Diffuse and Specular Colors
-	- ![MLP](./image/MLP.PNG )
+	- ![MLP](./image/MLP.png)
 	- 기존의 NeRF와 다르게 Spatial MLP에서는 diffuse, Directional MLP에서는 specular color를 출력한다. specular는 물체의 재질과 반사각을 고려한 color이기 때문에 Reflection과 재질을 고려한 Intergrated Directional Encoding을 통하여 Directional MLP에서 값을 출력한다. 
 	- color는 diffuse color와 specular color에 specular tint를 곱한 값의 합으로 구할 수 있다. 
 

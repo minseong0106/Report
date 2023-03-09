@@ -1,5 +1,5 @@
 - Experiment
 	- 기존 NeRF와 Ref-NeRF를 비교하기 위해 같은 dataset으로 train을 진행한 후 특정 camera 시점에서 view synthesis를 진행해 보았다. 
-	- ![gt|200](./image/gt.PNG) ![nerfcar|200](./image/nerfcar.PNG) ![car|200](./image/car.PNG)
+	- ![gt|200](./image/gt.png) ![nerfcar|200](./image/nerfcar.png) ![car|200](./image/car.png)
 	- 가장 왼쪽 사진은 testset의 ground truth이며 다음 rendering된 사진들이 각각 NeRF와 Ref-NeRF이다. 
 	- NeRF rendering 결과는 psnr값이 28.31로 Ref-NeRF의 37.81보다 낮았다. NeRF의 경우 대부분의 자동차의 결과가 잘 나왔지만 specular surface의 rendering이 부분적으로 실패하였다. 
