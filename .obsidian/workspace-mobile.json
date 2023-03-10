@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "3f7c03ea0e020030",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6eeb5bebb7e973b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de0ec61cbc0d7e42",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bda41be2abd8be2b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "60df098e1bef739e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2f7227579cfe2ddc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6b0e0f277c0ccf03",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "31dcd48396aa8827",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "770676331eb92243",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "94ae2c5da9c86025",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c8fe7f059e277cec",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2cf4d06602f0e8a7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "de0ec61cbc0d7e42",
+  "lastOpenFiles": [
+    "qwer.md",
+    "Errfc.md",
+    "2023-03-09-minseong-Instant-NGP.md",
+    "README.md",
+    "2023-02-28-minseong-Ref-NeRF.md",
+    "image/parametric.png",
+    "image/nerfcar.png",
+    "image/ide.png",
+    "image/MLP.png",
+    "image/car.png",
+    "image/pe.png",
+    "image/encoding.png",
+    "image/gt.png",
+    "image/NSVF.png",
+    "image/encoding1.png",
+    "image",
+    "eeee",
+    "2023-03-10-minseong-Instant-NGP.md",
+    "2023-03-02-minseong-Ref-NeRF.md",
+    "2023-03-07-minseong-Ref-NeRF.md",
+    "2023-03-06-urp-report-Ref-NeRF.md",
+    "2023-03-08-minseong-Ref-NeRF.md"
+  ]
+}
