@@ -1,7 +1,11 @@
 # Report
 
-논문 제목:  **Ref-NeRF**: Structured View-Dependent  Appearance for Neural Radiance Fields  
+논문 제목  
+**Ref-NeRF**: Structured View-Dependent  Appearance for Neural Radiance Fields  
 CVPR 2022 (Oral Presentation, Best Student Paper Honorable Mention)
+
+**Instant-NGP**: Instant Neural Graphics Primitives with a Multiresolution Hash Encoding
+ACM Transactions on Graphics(SIGGRAPH), JULY 2022
 
 project page
 Ref-NeRF : https://dorverbin.github.io/refnerf/  
