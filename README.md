@@ -11,5 +11,6 @@ project page
 Ref-NeRF : https://dorverbin.github.io/refnerf/  
 Instant-NGP : https://github.com/NVlabs/instant-ngp  
 Neural Point Catacaustics for Novel View Synthesis of Reflections: https://repo-sam.inria.fr/fungraph/neural_catacaustics/
+NVDiffrast: https://github.com/NVlabs/nvdiffrast
 
 ✅논문을 읽고 내용 정리. 기존 NeRF와의 비교 분석
